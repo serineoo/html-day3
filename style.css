@@ -145,6 +145,13 @@ body{
     color: #1f1f1f;
 }
 
+.item-right{
+     display: inline-block;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #1f1f1f;
+}
+
 .item:hover{
     text-decoration: underline;
 }
